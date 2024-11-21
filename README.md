@@ -1,9 +1,9 @@
 # <p align="center"> Hey, I'm Vaishnavi Shingote <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
-I am persuing my B.Tech degree in Electronics and Telecommunication from [**Pune Institute of Computer Technology**](https://pict.edu/).
+I am pursuing my B.Tech degree in Electronics and Telecommunication from [**Pune Institute of Computer Technology**](https://pict.edu/).
 
 - 🌍 I'm from **India**
 <!-- - ✨ I mostly contribute to [**Leetcode**](https://leetcode.com/u/Vaishnavi_Shingote/) -->
-- 📫 Reach me [**shivamrakhunde03@gmail.com**](mailto:vaishnavi.shingote111@gmail.com)
+- 📫 Reach me [**vaishnavi.shingote111@gmail.com**](mailto:vaishnavi.shingote111@gmail.com)
 
 
 ###
